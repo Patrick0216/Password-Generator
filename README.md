@@ -1,6 +1,6 @@
-## Passwrod Generator
+## Password Generator
 
-    its almost as simple as it says...
+    this challenge was to create a password generator utilizing the alert, confirm, prompt and well as use while, if, and for loops it was really challenging to wrap my head around at points but eventually i got there with alot of googling i mean like alot of MDN and W3schools pages
 
 ## innitial challenge
         
@@ -38,4 +38,4 @@
 
 - link to pages: https://patrick0216.github.io/Password-Generator/
 
-- image of the site 
+- image of the site:(challenge-3\Password-Generator\assets\images\webbysite-for-skool.PNG)
