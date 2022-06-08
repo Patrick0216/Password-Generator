@@ -33,7 +33,7 @@ function generatePassword(userPassword) {
         }
     
     // make a way to define users password length
-        var yourpasslength = userInput;//parseInt(userInput);
+        var yourpasslength = userInput;
     
     // make a way to keep users length in parameters
         if(yourpasslength < 8 || yourpasslength > 128) {
